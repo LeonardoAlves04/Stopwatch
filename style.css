@@ -1,0 +1,40 @@
+body{
+background-color:gray;
+}
+
+#header{
+display: flex;
+justify-content: center;
+}
+
+#stopwatch{
+    margin-top: 15% ;
+    display: flex;
+    justify-content: center;
+}
+
+span{
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+#hours , #minutes , #seconds, #tens{
+    font-size: 50px;
+}
+
+#btn-functions{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    padding: 5px ;
+    border-radius: 5px;
+    margin:10px;
+    
+}
+
+button:hover{
+    background-color: yellow;
+}
+
