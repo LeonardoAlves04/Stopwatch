@@ -17,4 +17,5 @@ Link para ver no github pages: https://leonardoalves04.github.io/Stopwatch/
 ![image](https://user-images.githubusercontent.com/69488943/176496043-5500988e-1843-4d29-b2aa-8feae5da32d6.png)
 
 *Tinha mencionado que coloquei a funçãao MARK no alert(), ficaria assim:
+
 ![alert](https://user-images.githubusercontent.com/69488943/176495606-1ad76997-0e6e-4765-a555-d1a0d672c627.png)
