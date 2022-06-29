@@ -7,12 +7,14 @@ acabei deixando no console.log() ai da pra marcar quantas vezes quiser e o tempo
 
 Link para ver no github pages: https://leonardoalves04.github.io/Stopwatch/
 
-•![image](https://user-images.githubusercontent.com/69488943/176494913-06dc6b37-4731-4dc7-bf6f-15dfdeb55e01.png)
+•Imagens do projeto:
+![image](https://user-images.githubusercontent.com/69488943/176494913-06dc6b37-4731-4dc7-bf6f-15dfdeb55e01.png)
 
-•![image](https://user-images.githubusercontent.com/69488943/176495115-d796e590-0b76-40f6-9242-3f0848115843.png)
+•Tempo rolando:
+![image](https://user-images.githubusercontent.com/69488943/176495115-d796e590-0b76-40f6-9242-3f0848115843.png)
 
+• Parte do console que mostra o MARK do tempo atual:
 ![image](https://user-images.githubusercontent.com/69488943/176496043-5500988e-1843-4d29-b2aa-8feae5da32d6.png)
 
 *Tinha mencionado que coloquei a funçãao MARK no alert(), ficaria assim:
-
 ![alert](https://user-images.githubusercontent.com/69488943/176495606-1ad76997-0e6e-4765-a555-d1a0d672c627.png)
