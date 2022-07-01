@@ -5,7 +5,7 @@ de um projeto relativamente simples eu vi outras pessoas fazendo e ningúem tinh
 phone que ja vi. Implementei primeiro com o alert()* porém não ficou interessante pois parava o contador, então se precisasse marcar várias vezes não dava certo. Ai
 acabei deixando no console.log() ai da pra marcar quantas vezes quiser e o tempo segue correndo. Enfim, segue o link e as fotos:
 
-Link para ver no github pages: https://leonardoalves04.github.io/Stopwatch/
+Link para ver no github pages: https://leonardoalves04.github.io/Stopwatch-Cronometro/
 
 •Imagens do projeto:
 ![image](https://user-images.githubusercontent.com/69488943/176494913-06dc6b37-4731-4dc7-bf6f-15dfdeb55e01.png)
